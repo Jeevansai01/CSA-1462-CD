@@ -6,7 +6,7 @@
 %%
 int yywrap()
 {}
-int main()
+int main() 
 {
 printf("enter the mail:");
 yylex();
