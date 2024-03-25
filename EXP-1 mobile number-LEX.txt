@@ -6,7 +6,7 @@
 %%
 int yywrap()
 {}
-int main(){
+int main(){ 
 printf("\n enter the mobile number:");
 yylex();
 }
